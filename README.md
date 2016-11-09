@@ -31,7 +31,7 @@ Aplikasi Kalkulator Sederhana ini terdapat:
 - Maka setelah itu akan muncul hasil dari operasi bilangan tadi
 
 
-**Contoh Gambar** Dari Aplikasi AdvancedWidget2:
+**Contoh Gambar** Dari Aplikasi Kalkulator Sederhana:
 
 ![kalkulator 1](https://github.com/Ainnaya/KALKULATOR-NetBeans/blob/6f8f7d3661ed22bf51e6bc90be986d5cbec0a0e5/kalkulator%201.png)
 ![kalkulator 1](https://github.com/Ainnaya/KALKULATOR-NetBeans/blob/6f8f7d3661ed22bf51e6bc90be986d5cbec0a0e5/kalkulator%202.png)
