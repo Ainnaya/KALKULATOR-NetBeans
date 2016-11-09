@@ -9,7 +9,6 @@ NIS: 4653/1372.070
 
 Nama Sekolah: SMK Telkom Malang
 
-
 Aplikasi **Kalkulator Sederhana** ini berfungsi seperti layaknya kalkulator yang dapat mengoperasikan penjumlahan, pengurangan, perkalian, dan pembagian.
 
 Aplikasi Kalkulator Sederhana ini terdapat:
@@ -19,7 +18,6 @@ Aplikasi Kalkulator Sederhana ini terdapat:
   - **Button :** berfungsi untuk membagi data input Bilangan 1 dan Bilangan 2
   - **Button +** berfungsi untuk menjumlahkan data input Bilangan 1 dan Bilangan 2
   - **Button -** berfungsi untuk mengurangkan data input Bilangan 1 dan Bilangan 2
-
 
 **Cara menggunakan** aplikasi Kalkulator sederhana in yaitu:
 - Buka aplikasi Kalkulator Sederhana
@@ -33,7 +31,7 @@ Aplikasi Kalkulator Sederhana ini terdapat:
 - Maka setelah itu akan muncul hasil dari operasi bilangan tadi
 
 
-Contoh Gambar Dari Aplikasi AdvancedWidget2:
+**Contoh Gambar** Dari Aplikasi AdvancedWidget2:
 
 ![kalkulator 1](https://github.com/Ainnaya/KALKULATOR-NetBeans/blob/6f8f7d3661ed22bf51e6bc90be986d5cbec0a0e5/kalkulator%201.png)
 ![kalkulator 1](https://github.com/Ainnaya/KALKULATOR-NetBeans/blob/6f8f7d3661ed22bf51e6bc90be986d5cbec0a0e5/kalkulator%202.png)
